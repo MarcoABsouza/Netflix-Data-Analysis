@@ -6,7 +6,7 @@ Este projeto apresenta uma análise de dados referente ao conjunto de dados da N
 
 A análise revelou o padrão de lançamentos de filmes e programas de TV ao longo do tempo. Para isso, foi extraída a coluna `date_added` e transformada para focar no mês de lançamento.
 
-![Lançamentos por Mês]([Movies and Series Releases by Month.png](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Movies%20and%20Series%20Releases%20by%20Month.png))
+![Lançamentos por Mês](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Movies%20and%20Series%20Releases%20by%20Month.png)
 
 A maioria dos lançamentos ocorre no final do ano, com picos notáveis em dezembro, provavelmente devido ao aumento de produções durante as festividades. Isso pode indicar uma estratégia da Netflix para maximizar a audiência durante o período de férias.
 
@@ -14,26 +14,14 @@ A maioria dos lançamentos ocorre no final do ano, com picos notáveis em dezemb
 
 A análise dos tipos de classificação (rating) mostrou quantos tipos únicos existem e qual classificação aparece com mais frequência no catálogo da Netflix.
 
-![Distribuição de Ratings]([Unique Rating Values and Their Frequency](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Unique%20Rating%20Values%20and%20Their%20Frequency.png)
+![Distribuição de Ratings](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Unique%20Rating%20Values%20and%20Their%20Frequency.png)
 
 Aqui estão os principais insights:
 - A classificação `TV-MA` (mature audience) aparece com maior frequência no catálogo, seguida por `TV-14`. Isso indica uma predominância de conteúdo para público adulto e adolescente.
 - O catálogo também possui uma quantidade significativa de conteúdo infantil com a classificação `TV-Y` e `TV-Y7`.
 
-## 3. Filmes de Salman Khan, Shah Rukh Khan e Akshay Kumar
 
-Um ponto de interesse foi verificar quais filmes dos atores populares Salman Khan, Shah Rukh Khan e Akshay Kumar estão disponíveis na plataforma. Isso foi feito com base na coluna `cast` que lista os atores dos filmes e programas.
-
-![Filmes dos Atores de Bollywood](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Series%20Added%20to%20Netflix%20by%20Genre.png)
-
-Aqui estão as quantidades de filmes desses atores na Netflix:
-- **Salman Khan:** 5 filmes
-- **Shah Rukh Khan:** 8 filmes
-- **Akshay Kumar:** 7 filmes
-
-Isso reflete o impacto global que esses atores têm, com suas obras disponíveis para um público internacional.
-
-## 4. Adições Anuais de Programas e Filmes por Tipo
+## 3. Adições Anuais de Programas e Filmes por Tipo
 
 Para observar o crescimento do catálogo ao longo dos anos, foi analisado o número de adições de novos títulos por tipo (filme ou programa de TV) em uma base anual.
 
@@ -43,7 +31,7 @@ A análise revelou:
 - Um aumento constante de novos conteúdos até 2020, quando houve um pico significativo. Isso pode estar relacionado ao aumento na demanda por streaming durante a pandemia de COVID-19.
 - Após 2020, houve uma leve queda no número de adições, possivelmente refletindo as interrupções de produção e ajustes na estratégia de conteúdo da Netflix.
 
-## 5. Diretores com Mais Programas de TV
+## 4. Diretores com Mais Programas de TV
 
 A última análise focou nos diretores que produziram o maior número de programas de TV na plataforma. Utilizando a coluna `director`, filtramos os diretores que são mais ativos em produções de TV.
 
