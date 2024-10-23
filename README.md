@@ -24,7 +24,7 @@ Aqui estão os principais insights:
 
 Um ponto de interesse foi verificar quais filmes dos atores populares Salman Khan, Shah Rukh Khan e Akshay Kumar estão disponíveis na plataforma. Isso foi feito com base na coluna `cast` que lista os atores dos filmes e programas.
 
-![Filmes dos Atores de Bollywood](link-para-o-gráfico)
+![Filmes dos Atores de Bollywood](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Series%20Added%20to%20Netflix%20by%20Genre.png)
 
 Aqui estão as quantidades de filmes desses atores na Netflix:
 - **Salman Khan:** 5 filmes
