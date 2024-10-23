@@ -47,7 +47,7 @@ A análise revelou:
 
 A última análise focou nos diretores que produziram o maior número de programas de TV na plataforma. Utilizando a coluna `director`, filtramos os diretores que são mais ativos em produções de TV.
 
-![Diretores Populares](link-para-o-gráfico)
+![Diretores Populares]([link-para-o-gráfico](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Top%2010%20directors%20Tv%20Show%20productions.png))
 
 O diretor com o maior número de programas de TV dirigidos é **Alastair Fothergill**, conhecido por seu trabalho em documentários sobre a natureza.
 
