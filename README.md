@@ -6,7 +6,7 @@ Este projeto apresenta uma análise de dados referente ao conjunto de dados da N
 
 A análise revelou o padrão de lançamentos de filmes e programas de TV ao longo do tempo. Para isso, foi extraída a coluna `date_added` e transformada para focar no mês de lançamento.
 
-![Lançamentos por Mês](Movies and Series Releases by Month.png)
+![Lançamentos por Mês]([Movies and Series Releases by Month.png](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Movies%20and%20Series%20Releases%20by%20Month.png))
 
 A maioria dos lançamentos ocorre no final do ano, com picos notáveis em dezembro, provavelmente devido ao aumento de produções durante as festividades. Isso pode indicar uma estratégia da Netflix para maximizar a audiência durante o período de férias.
 
