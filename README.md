@@ -25,7 +25,7 @@ Aqui estão os principais insights:
 
 Para observar o crescimento do catálogo ao longo dos anos, foi analisado o número de adições de novos títulos por tipo (filme ou programa de TV) em uma base anual.
 
-![Adições por Ano](link-para-o-gráfico)
+![Adições por Ano](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Series%20Added%20to%20Netflix%20by%20Genre.png)
 
 A análise revelou:
 - Um aumento constante de novos conteúdos até 2020, quando houve um pico significativo. Isso pode estar relacionado ao aumento na demanda por streaming durante a pandemia de COVID-19.
@@ -35,7 +35,7 @@ A análise revelou:
 
 A última análise focou nos diretores que produziram o maior número de programas de TV na plataforma. Utilizando a coluna `director`, filtramos os diretores que são mais ativos em produções de TV.
 
-![Diretores Populares]([link-para-o-gráfico](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Top%2010%20directors%20Tv%20Show%20productions.png))
+![Diretores Populares](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Top%2010%20directors%20Tv%20Show%20productions.png)
 
 O diretor com o maior número de programas de TV dirigidos é **Alastair Fothergill**, conhecido por seu trabalho em documentários sobre a natureza.
 
