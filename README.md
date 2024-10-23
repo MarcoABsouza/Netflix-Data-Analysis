@@ -14,7 +14,7 @@ A maioria dos lançamentos ocorre no final do ano, com picos notáveis em dezemb
 
 A análise dos tipos de classificação (rating) mostrou quantos tipos únicos existem e qual classificação aparece com mais frequência no catálogo da Netflix.
 
-![Distribuição de Ratings](link-para-o-gráfico)
+![Distribuição de Ratings]([link-para-o-gráfico](https://github.com/MarcoABsouza/Netflix-Data-Analysis/blob/main/Unique%20Rating%20Values%20and%20Their%20Frequency.png))
 
 Aqui estão os principais insights:
 - A classificação `TV-MA` (mature audience) aparece com maior frequência no catálogo, seguida por `TV-14`. Isso indica uma predominância de conteúdo para público adulto e adolescente.
